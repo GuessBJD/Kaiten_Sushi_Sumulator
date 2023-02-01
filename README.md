@@ -14,4 +14,4 @@ The VR application delivers users an interesting experience in touring, dining, 
 See [game design documentation](https://drive.google.com/file/d/1U9gT7ACjW1d8axRHGEpXH-ZzZJ-4DkGK/view?usp=share_link)
 
 # Presentation and Demonstration
-See [presentation and gameplay demonstration]
+See [presentation and gameplay demonstration](https://youtu.be/5MnxprFTNyw)
