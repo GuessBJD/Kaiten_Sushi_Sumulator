@@ -11,7 +11,7 @@ The VR application delivers users an interesting experience in touring, dining, 
 - Easter eggs: ride kaiten sushi roller coaster
 
 ## Documentation
-See [game design documentation]
+See [game design documentation](https://drive.google.com/file/d/1U9gT7ACjW1d8axRHGEpXH-ZzZJ-4DkGK/view?usp=share_link)
 
 # Presentation and Demonstration
 See [presentation and gameplay demonstration]
